@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621935364 source:f:\c++ 4-1\pie\main.cpp
+	<iostream>
+	<cmath>
+
